@@ -1,4 +1,0 @@
-nltk
-sklearn
-joblib
-matplotlib
